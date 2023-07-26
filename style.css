@@ -1,0 +1,35 @@
+#show_sketch
+{
+    float: right;
+}
+
+#p
+{
+    float: left;
+    font-size: 30px;
+}
+
+#P2
+{
+    float: right;
+    font-size: 30px;
+}
+
+#p1
+{
+    color: red;
+    font: bold;
+    font-size: 50px;
+}
+
+body
+{
+    background-image: linear-gradient(rgb(0, 183, 255), lime, red, orange);
+}
+
+h1
+{
+    float: none;
+    padding:5px;
+    background-color: cornsilk;
+}
